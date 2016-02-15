@@ -19,6 +19,3 @@ mango-client部分，主要包含：
         c)使用ServiceDiscovery发现Rpc服务器地址
         d)使用Rpc服务器地址、RpcRequest实例化RpcClient
         e)利用RpcClient实现Rpc请求的发送及Rpc结果的接收
-
-
-
